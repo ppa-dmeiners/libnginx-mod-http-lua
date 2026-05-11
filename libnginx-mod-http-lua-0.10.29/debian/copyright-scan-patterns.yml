@@ -1,0 +1,9 @@
+---
+check:
+  suffixes:
+  - lua
+ignore:
+  pattern:
+  - .git
+  - t/011-md5_bin.t
+  - t/166-worker-thread.t
